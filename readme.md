@@ -1,7 +1,7 @@
-# Fint - библиотека, реализующая ООП и строгую типизацию в OneScript
-
 [![GitHub Release](https://img.shields.io/github/v/release/Macegor/fint)](https://github.com/Macegor/fint/releases)
 [![GitHub License](https://img.shields.io/github/license/Macegor/fint)](https://github.com/Macegor/fint/blob/main/LICENSE)
+
+# Fint - фреймворк, реализующий ООП (Наследование, Инкапсуляция, Полиморфизм) и статическую типизацию в OneScript
 
 ![Logo](resources/logo.png)
 
@@ -40,3 +40,4 @@
 - [Работа с методами](docs/methods.md)
 - [Наследование](docs/inheritance.md)
 - [Интерфейсы](docs/interfaces.md)
+- [Перечисления](docs/enumeration.md)
