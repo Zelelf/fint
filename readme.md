@@ -1,17 +1,9 @@
 # Fint - библиотека, реализующая ООП и строгую типизацию в OneScript
 
+[![GitHub Release](https://img.shields.io/github/v/release/Macegor/fint)](https://github.com/Macegor/fint/releases)
+[![GitHub License](https://img.shields.io/github/license/Macegor/fint)](https://github.com/Macegor/fint/blob/main/LICENSE)
+
 ![Logo](resources/logo.png)
-
-## Оглавление
-
-- [Возможности](#возможности)
-- [Планы по развитию](#планы-по-развитию)
-- [Установка](docs/installation.md)
-- [Отладка](docs/debugging.md)
-- [Синтаксис](docs/syntax.md)
-- [Использование](docs/usage.md)
-- [Наследование](docs/inheritance.md)
-- [Интерфейсы](docs/interfaces.md)
 
 ## Возможности
 
@@ -35,4 +27,16 @@
 - Обходимые классы.
 - Объекты «листы» для каждого класса.
 
-Подробная документация: [Синтаксис](docs/syntax.md), [Использование](docs/usage.md), [Наследование](docs/inheritance.md), [Интерфейсы](docs/interfaces.md).
+## Документация
+
+- [Установка](docs/installation.md)
+- [Синтаксис](docs/syntax.md)
+- [Отладка](docs/debugging.md)
+- [Введение](docs/introduction.md)
+- [Пространства имен и импортирование](docs/namespaces.md)
+- [Создание экземпляров объектов](docs/instantiation.md)
+- [Создание свойств, методов и их типизация](docs/typing.md)
+- [Работа с свойствами](docs/properties.md)
+- [Работа с методами](docs/methods.md)
+- [Наследование](docs/inheritance.md)
+- [Интерфейсы](docs/interfaces.md)
