@@ -6,7 +6,8 @@
 
 ![Logo](resources/logo.png)
 
-<div style="display: inline-block; vertical-align: middle;"><a href="https://t.me/fint_onescript"><img src="resources/Telegram.png" width="40"></a></div><div style="display: inline-block; vertical-align: middle; margin-left: 10px;">Обсуждение и обмен опытом</div>
+Анонсы, обсуждение и обмен опытом:
+[![Telegram](resources/Telegram.png)](https://t.me/fint_onescript)
 
 ## Возможности
 
