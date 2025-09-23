@@ -1,5 +1,6 @@
 [![GitHub Release](https://img.shields.io/github/v/release/Macegor/fint)](https://github.com/Macegor/fint/releases)
 [![GitHub License](https://img.shields.io/github/license/Macegor/fint)](https://github.com/Macegor/fint/blob/main/LICENSE)
+[![OneScript](resources/oscript.svg)](https://github.com/EvilBeaver/OneScript)
 
 # Fint - фреймворк, реализующий ООП (Наследование, Инкапсуляция, Полиморфизм) и статическую типизацию в OneScript
 
