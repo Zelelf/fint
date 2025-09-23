@@ -6,8 +6,7 @@
 
 ![Logo](resources/logo.png)
 
-Анонсы, обсуждение и обмен опытом:
-[![Telegram](resources/Telegram.png)](https://t.me/fint_onescript)
+Анонсы, обсуждение и обмен опытом: [Telegram](https://t.me/fint_onescript)
 
 ## Возможности
 
