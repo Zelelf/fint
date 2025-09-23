@@ -1,5 +1,5 @@
 Описание.Имя("fint")
-	.Версия("0.1.4")
+	.Версия("0.1.5")
 	.Автор("Андрей Савадеров (Macegor)")
     .АдресАвтора("savaderov.andrei@gmail.com")
 	.АдресРепозитория("https://github.com/Macegor/fint")

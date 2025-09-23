@@ -44,3 +44,4 @@
 - [Наследование](docs/inheritance.md)
 - [Интерфейсы](docs/interfaces.md)
 - [Перечисления](docs/enumeration.md)
+- [Делегаты](docs/delegate.md)
