@@ -45,3 +45,4 @@
 - [Интерфейсы](docs/interfaces.md)
 - [Перечисления](docs/enumeration.md)
 - [Делегаты](docs/delegate.md)
+- [Общие объекты (singleton)](docs/singleton.md)
